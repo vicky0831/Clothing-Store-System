@@ -35,6 +35,6 @@ This project is designed to provide an online ordering and delivery system for a
 
 You can download the executable file and its dependencies here:
 
-[Download the App](https://github.com/vicky0831/Clothing-Store-Systemy/releases/)
+[Download the App](https://github.com/vicky0831/Clothing-Store-System/releases)
 
 
