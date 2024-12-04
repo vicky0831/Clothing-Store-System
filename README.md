@@ -31,6 +31,27 @@ This project is designed to provide an online ordering and delivery system for a
    ```bash
    git clone https://github.com/your-username/Clothing-Store-System.git
 
+### A. Set Up the Database
+
+#### Install SQL Server
+If you haven't already, you'll need to install **Microsoft SQL Server** or **SQL Server Express**. You can download the installer from the official [Microsoft SQL Server website](https://www.microsoft.com/en-us/sql-server/sql-server-downloads).
+
+#### Create the Database
+2. **Open SQL Server Management Studio (SSMS)**:
+    - Launch **SSMS** on your computer.
+    - Connect to your SQL Server instance using your login credentials.
+
+3. **Create a New Database**:
+
+3. **Execute the SQL Scripts**:
+    - Navigate to the **SQL Coding** directory in your project.
+    - Open the SQL scripts for creating tables (such as `create_products.sql`, `create_users.sql`, `create_cart.sql`, etc.).
+    - Copy and paste the SQL code into the **Query Editor** in SSMS.
+    - Execute the script by clicking **Execute** or pressing `F5`.
+
+4. **Configure the Connection String**:
+Once the database is set up, ensure the connection string in your application is configured to connect to the `Mini_Project` database. The connection string typically looks like this:
+
 ## Executable: Download the App
 
 You can download the executable file and its dependencies here:
