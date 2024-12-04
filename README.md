@@ -31,5 +31,10 @@ This project is designed to provide an online ordering and delivery system for a
    ```bash
    git clone https://github.com/your-username/clothing-outlet-system.git
 
+## Executable: Download the App
+
+You can download the executable file and its dependencies here:
+
+[Download the App](https://github.com/vicky0831/Clothing-Store-Systemy/releases/download/v1.0)
 
 
