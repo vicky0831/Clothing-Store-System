@@ -29,7 +29,7 @@ This project is designed to provide an online ordering and delivery system for a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/clothing-outlet-system.git
+   git clone https://github.com/your-username/Clothing-Store-System.git
 
 ## Executable: Download the App
 
