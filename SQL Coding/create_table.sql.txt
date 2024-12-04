@@ -1,0 +1,1 @@
+CREATE DATABASE Mini_Project;

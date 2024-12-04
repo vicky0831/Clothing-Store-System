@@ -1,0 +1,8 @@
+CREATE TABLE cart (
+    CartID INT PRIMARY KEY IDENTITY(1,1),
+    UserID INT NOT NULL,
+    ProductName NVARCHAR(255) NOT NULL,
+    Quantity INT NOT NULL,
+    Price DECIMAL(18, 2) NOT NULL,
+    Size NVARCHAR(50)
+);
