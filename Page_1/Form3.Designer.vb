@@ -103,8 +103,7 @@ Partial Class Form3
         ' 
         ' PictureBox1
         ' 
-        PictureBox1.ErrorImage = My.Resources.Resources.pngtree_yellow_background_with_3d_t_shirts_rendered_image_3711716
-        PictureBox1.Image = My.Resources.Resources.image_removebg_preview__13_1
+        PictureBox1.ErrorImage = Nothing
         PictureBox1.Location = New Point(351, -4)
         PictureBox1.Name = "PictureBox1"
         PictureBox1.Size = New Size(387, 340)
